@@ -1,0 +1,27 @@
+.title{
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    font-size: xx-large; 
+    float: left;
+}
+
+.datePost{
+    text-align: left;
+    color: black;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: medium; 
+    float: right;
+}
+
+.content{
+    text-align: left;
+    color: black;
+    clear: both;
+    overflow: auto;
+}
+
+button{
+    margin: 1px;
+}
