@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Post } from './post';
+import { Post } from './Models/post';
 
 @Component({
   selector: 'app-root',
